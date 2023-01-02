@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Você é o melhor",
+      "autoria": "cleir",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Na minha maquina sempre funciona!!!!",
+      "autoria": "cleir",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Não é falta de café nem de tequila e meu código que não compila",
+      "autoria": "cleir",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando função de editar",
+      "autoria": "cleir ",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "testando criar",
+      "autoria": "cleir",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
